@@ -1,4 +1,8 @@
-# COMMANDS
+# INSTALL GUIDE
+
+## PreReqs
+
+- Need docker desktop installed on box. Make sure you get latest.
 
 1. `docker compose -f docker-compose.yml up`
 2. After installation - `docker images`
